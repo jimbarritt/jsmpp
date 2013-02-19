@@ -11,5 +11,10 @@ syntax:glob
 .project
 .classpath
 
+# Intellij Project Files
+*.iws
+*.ipr
+.idea
+
 version.properties
 git.properties
